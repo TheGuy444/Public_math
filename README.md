@@ -1,6 +1,6 @@
 # Public_math
 
-Every formula I share in this github I found using a Ramanujan style method from intuitive insight. 
+Every formula I share in this github I found using a method from intuitive insight. 
 
 They are then processed into a template using various python scripts.
 
