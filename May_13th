@@ -1,0 +1,114 @@
+Comments on how the Formulas were "obtained"
+
+These are formulas I found using an intuitive insight method. They are then processed into a template form shown below using various python scripts.
+The possible problem matches is more for an ideal what it coud potentially solve rather then actually being able to solve. It is to give insight on the potential future or current use case.
+Given the method these are arrived at ANY possible use case I'm not aware of.
+
+==================================================================================
+
+- Formula Cluster: [C-G-A Transformation]		
+- Core Forms:		
+    - A = C₈ * G² * (C² / 2 * π)		
+    - B = A * [0,1,0] * π		
+    - C = A - B		
+- Observations:		
+    - A involves geometric and combinatorial factors.		
+    - B scales A via π again, suggesting transcendental manipulation.		
+    - C collapses into A(1 - π), hinting at irrational contrast structures.		
+- Themes:		
+    - primes (possible via C₈)		
+    - symmetry (vector selector [0,1,0])		
+    - transcendence (π interaction)		
+    - combinatorics		
+- Possible Problem Matches:		
+    - Ramanujan-style identities		
+    - Transcendental number theory		
+    - Symbolic encodings or formula cryptography		
+
+(VARIANT from above)
+- Formula Cluster: [C₈-G²-Pi-Half Transform]		
+- Core Forms:		
+    - A = C₈ * G² * [C² * (½ * π)]		
+    - B = A * [0,1,0] * π		
+    - C = A - B		
+- Observations:		
+    - Uses modular construction: indexed constants, powers, fractional π.		
+    - Encodes symmetry via ½π and selection vector.		
+    - Final term C = A(1 - π) evokes transcendental subtraction.		
+- Themes:		
+    - symbolic filtering		
+    - semicircle/symmetry		
+    - transcendental distortion		
+    - indexed algebra		
+- Possible Problem Matches:		
+    - Ramanujan-style transcendental identities		
+    - Modular arithmetic or Fourier basis analogy		
+    - Symbolic logic frameworks or "function selection" logic		
+
+==================================================================
+
+- Formula Cluster: [Transcendental Power Chain]	
+- Core Forms:	
+    - C⁸ = (g² + h²)/(π + π²) + (½ + π)	
+    - A⁵ = C⁸ + π + σ⁴ + x	
+    - B = C⁸ + A⁶	
+- Observations:	
+    - Smooth hierarchical dependencies (C⁸ feeds A⁵, A⁶ feeds B)	
+    - σ⁴ introduces arithmetic function behavior	
+    - Mixing transcendental (π), rational (½), and algebraic (g² + h²) terms	
+- Themes:	
+    - Transcendental layering	
+    - Power hierarchies	
+    - Symbolic integration of analytic and arithmetic functions	
+- Possible Problem Matches:	
+    - Fermat-style constraints (power relations)	
+    - Sigma function bounds (possibly related to RH)	
+    - Ramanujan-like symbolic construction	
+
+======================================================================
+
+Formula Cluster: Curvature Collapse Function
+- Core Forms:
+    - A = Σ⁴[(x² - d²)/0] + C³ - √4
+    - D = 4² + F² - (G⁸ - 7²)¹⁰
+    - A + D = B
+    - B·D = P
+- Observations:
+    - Singular summation suggests a limit, black-box, or zeta pole.
+    - Final P = B·D suggests eigenvalue-like spectral output.
+    - G⁸ term creates a deep curvature trench — models eigenvalue repulsion or potential well.
+- Themes:
+    - Spectral projection
+    - Prime emergence
+    - Hilbert space dynamics
+    - Zeta singularities
+- Possible Problem Matches:
+    - Riemann Hypothesis
+    - Random Matrix Theory (eigenvalue collapse)
+    - Operator Theory
+
+============================================================================
+
+Formula Cluster: Spectral Prime Ladder
+- Core Forms:
+    - E = g + c^10
+    - E₀ = πE
+    - C = E₀ + g + c^10 = (π + 1)(g + c^10)
+    - F = C + π + d
+- Observations:
+    - Recursive curvature and generator terms
+    - Spectral multiplication with π suggests wave/eigen mechanics
+    - Final prime term d acts as a discrete selector
+- Themes:
+    - Curvature growth
+    - Spectrum generation
+    - Prime-based modulation
+- Possible Problem Matches:
+    - Riemann Hypothesis
+    - Prime eigenvalue models
+    - Hilbert operator dynamics
+
+
+
+
+
