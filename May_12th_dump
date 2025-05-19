@@ -1,0 +1,125 @@
+Comments on how the Formulas were "obtained"
+
+These are formulas I found using a Ramanujan style method from intuitive insight. They are then processed into a template form shown below using various python scripts.
+The possible problem matches is more for an ideal what it coud potentially solve rather then actually being able to solve. It is to give insight on the potential future or current use case.
+Given the method these are arrived at ANY possible use case I'm not aware of.
+
+==================================================================================
+- Formula Cluster: [Symbolic Power Resolution]
+- Core Forms:
+    - C⁸ = (g² + h²)/(π + π²) + (½ + π)
+    - A⁵ = C⁸ + π + σ⁴ + x
+    - A⁵ = B
+- Observations:
+    - System collapses neatly into a definition for B
+    - Power symmetry: 8 (C), 5 (A), single layer depth
+    - Mix of arithmetic (g² + h², σ⁴) and transcendental (π)
+    - Potentially prime-structured if g, h constrained
+- Themes:
+    - Symbolic closure
+    - Transcendental layering
+    - Ramanujan-inspired symmetry
+- Possible Problem Matches:
+    - Fermat-style power constructions
+    - Divisor function behavior (σ⁴)
+    - Ramanujan aesthetics (π + σ + power chain)
+
+=======================================================================
+
+- Formula Cluster: [Additive Ramanujan Power Cluster]
+- Core Forms:
+    - C⁸ = (g² + h²)/(π + π²) + (½ + π)
+    - A⁵ = C⁸ + π + σ⁴ + x
+    - B = C⁸ + A⁵
+- Observations:
+    - B is an additive combination dominated by σ⁴
+    - Layered structure mixes geometry and arithmetic
+    - Linear growth in x and sum of squares term
+- Themes:
+    - Additive hierarchies
+    - Blend of transcendental and arithmetic functions
+- Possible Problem Matches:
+    - Divisor function estimates
+    - Energy/potential model analogies in number theory
+
+===================================================================
+
+- Formula Cluster: [Prime Paradox Filter]
+- Core Forms:
+    - Ne² = π * x * y²
+    - x = π² + 7e²
+    - y = A + b ; A = d² + 7
+    - Conditional: If y is prime ⇒ A = 0 ⇒ d² = -7
+- Observations:
+    - System collapses into imaginary space if y is prime
+    - This collapse could define a symbolic prime-detection system
+    - Inversion of standard methods — primes disrupt formula continuity
+- Themes:
+    - Prime-sensitive symbolic structures
+    - Paradox logic
+    - Real vs Imaginary domain filtering
+- Possible Problem Matches:
+    - Prime testing
+    - Symbolic logic systems
+    - Zeta function boundary behavior
+
+========================================================================
+
+Formula Cluster: Pythagorean-Pi Engine
+- Core Forms:
+    - C^2 + b^2 = a^2
+    - B = ((a^2 * π * c)/G)^2 * π - H
+- Observations:
+    - B scales cubically with a (due to π^3)
+    - Foundation in Pythagorean identity
+    - Can model geometric or volumetric growth
+    - If c, G, H are functions of primes, could trigger pattern collapses
+- Themes:
+    - Primes (if constrained)
+    - Geometric symmetry
+    - Exponential growth
+    - Transcendental constants (π)
+- Possible Problem Matches:
+    - Indirect link to Riemann Hypothesis (growth behavior)
+    - Possible geometric interpretation akin to Hilbert Space basis volumes
+    - Symbolic echoes of FLT if extended beyond square terms
+
+==========================================================================
+
+Formula Cluster: Exponential-Scaled Square Difference
+- Core Forms:
+    - C = H^2 - G
+    - P = C * e^4 * (π/2)
+- Observations:
+    - P scales cleanly with H and G
+    - The constant multiplier (πe⁴/2) may have physical/mathematical significance
+    - If G is constrained (e.g., prime, triangular), C might become prime
+- Themes:
+    - Quadratic differences
+    - Transcendental scaling
+    - Prime testing (potential)
+- Possible Problem Matches:
+    - Prime distribution
+    - Exponential systems in Hilbert space
+    - Riemann-adjacent symbolic structure
+
+=========================================================================
+
+- Formula Cluster: [GyH-Cube Constellation]
+- Core Forms:
+    - G_y^3 + H^3 = D^3
+    - A^3 · σ⁴(5/16) = P
+    - P · D^3 = F
+- Observations:
+    - Cubic forms hint at deep algebraic identity
+    - Sigma function applied to rational: nonstandard interpretation (curvature or scaling factor?)
+    - P links algebraic cube identity to scalar or curvature output F
+- Themes:
+    - Curvature-modulated arithmetic
+    - Symbolic extension of divisor functions
+    - Fermat-like Diophantine expression
+    - Possible modular or elliptic influence
+- Possible Problem Matches:
+    - Fermat’s Last Theorem (variant)
+    - Modular forms / elliptic curves
+    - Riemann Hypothesis (via sigma function extension)
